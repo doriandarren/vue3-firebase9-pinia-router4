@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ant-design-vue": "^3.2.15",
     "firebase": "^9.13.0",
     "nanoid": "^4.0.0",
     "pinia": "^2.0.23",
